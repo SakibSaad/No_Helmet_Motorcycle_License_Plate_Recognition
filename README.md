@@ -11,3 +11,26 @@ We have used pretrained YoloV5 model to detect license plate and used easyOCR li
 
 ### Noise Pollution Reduction
 We have used arduino as micro-controller and added sound sensor to detect noise on the road. If noise excludes certain threshold we close the servo 
+
+### How to Run the Project
+
+To run the project, follow these steps:
+
+1. **Install Python 3:** If you haven't already, install Python 3 from the [official Python website](https://www.python.org/).
+
+2. **Clone the Repository:** Clone this repository to your local machine using the following command:
+
+Replace `your-username` and `your-repository` with your GitHub username and the name of your repository.
+
+3. **Navigate to the Project Directory:** Use the `cd` command to navigate into the project directory:
+
+
+4. **Run the Python Script:** Execute the following command to run the project:
+
+
+This will start the project and execute the `plateXhelmet.py` script.
+
+5. **Follow On-Screen Instructions:** Depending on the project, you may need to follow additional on-screen instructions or interact with the script as it runs.
+
+That's it! You've successfully run the project. If you encounter any issues, feel free to open an [issue](https://github.com/your-username/your-repository/issues) on this repository for assistance.
+
