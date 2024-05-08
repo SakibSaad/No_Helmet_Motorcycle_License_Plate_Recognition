@@ -6,6 +6,11 @@ The "No Helmet Motorcycle License Plate Recognition System" is an advanced proje
 ### Helmet Detection Part
 We have Trained YoloV8 model on custom dataset
 
+Dataset Link: https://app.roboflow.com/microlab2
+
+![val_batch1_pred](https://github.com/SakibSaad/No_Helmet_Motorcycle_License_Plate_Recognition/assets/87976927/8a40f336-e275-4c60-8061-42d1af78a335)
+
+
 ### License Detection & Recognition
 We have used pretrained YoloV5 model to detect license plate and used easyOCR library for text recognition.
 
