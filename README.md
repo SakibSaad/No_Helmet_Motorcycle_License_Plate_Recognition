@@ -12,7 +12,9 @@ Dataset Link: https://app.roboflow.com/microlab2
 
 
 ### License Detection & Recognition
-We have used pretrained YoloV5 model to detect license plate and used easyOCR library for text recognition.
+We have used pretrained YoloV5 model to detect license plate and used easyOCR library for text recognition. Recognised text is saved in a text file.
+
+![images (1)](https://github.com/SakibSaad/No_Helmet_Motorcycle_License_Plate_Recognition/assets/87976927/08f54469-a912-4afc-8521-ed3c29543a6e)
 
 ### Noise Pollution Reduction
 We have used arduino as micro-controller and added sound sensor to detect noise on the road. If noise excludes certain threshold we close the servo 
