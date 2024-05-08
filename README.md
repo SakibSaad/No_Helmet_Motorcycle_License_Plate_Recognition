@@ -26,9 +26,9 @@ To run the project, follow these steps:
 1. **Install Python 3:** If you haven't already, install Python 3 from the [official Python website](https://www.python.org/).
 
 2. **Clone the Repository:** Clone this repository to your local machine using the following command:
-    ```shell
-     git clone https://github.com/SakibSaad/No_Helmet_Motorcycle_License_Plate_Recognition.git
-    ```
+ ```shell
+      git clone https://github.com/SakibSaad/No_Helmet_Motorcycle_License_Plate_Recognition.git
+ ```
 
 3. **Navigate to the Project Directory:** Use the `cd` command to navigate into the project directory:
    
