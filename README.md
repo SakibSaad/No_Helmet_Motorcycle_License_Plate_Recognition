@@ -27,18 +27,18 @@ To run the project, follow these steps:
 
 2. **Clone the Repository:** Clone this repository to your local machine using the following command:
  ```shell
-      git clone https://github.com/SakibSaad/No_Helmet_Motorcycle_License_Plate_Recognition.git
+ git clone https://github.com/SakibSaad/No_Helmet_Motorcycle_License_Plate_Recognition.git
  ```
 
 3. **Navigate to the Project Directory:** Use the `cd` command to navigate into the project directory:
    
  ```shell
-      cd No_Helmet_Motorcycle_License_Plate_Recognition
+ cd No_Helmet_Motorcycle_License_Plate_Recognition
  ```
 
 5. **Run the Python Script:** Execute the following command to run the project:
  ```shell
-      python3 plateXhelmet.py
+ python3 plateXhelmet.py
  ```
 This will start the project and execute the `plateXhelmet.py` script.
 
