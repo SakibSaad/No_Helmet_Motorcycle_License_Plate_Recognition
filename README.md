@@ -17,7 +17,18 @@ We have used pretrained YoloV5 model to detect license plate and used easyOCR li
 ![images (1)](https://github.com/SakibSaad/No_Helmet_Motorcycle_License_Plate_Recognition/assets/87976927/08f54469-a912-4afc-8521-ed3c29543a6e)
 
 ### Noise Pollution Reduction
-We have used arduino as micro-controller and added sound sensor to detect noise on the road. If noise excludes certain threshold we close the servo 
+We have used arduino as micro-controller and added sound sensor to detect noise on the road. If noise excludes certain threshold we close the servo and "Road Close" written on the display also the red light blinks. Otherwise, the road stays open and LED stays green.
+
+**Logic of the system**
+![Screenshot from 2024-05-11 08-11-19](https://github.com/SakibSaad/No_Helmet_Motorcycle_License_Plate_Recognition/assets/87976927/73196ea5-7d1f-4733-9b09-e289f5e843fb)
+
+**Pin Diagram & Overall System**
+![Traffic_Capture](https://github.com/SakibSaad/No_Helmet_Motorcycle_License_Plate_Recognition/assets/87976927/1df875ee-9a27-4460-9607-b192c4ad6660)
+
+**System Prototype**
+https://github.com/SakibSaad/No_Helmet_Motorcycle_License_Plate_Recognition/assets/87976927/d762af3e-7d8c-4b8e-8996-90cd5c9db2e8
+
+
 
 ### How to Run the Project
 
