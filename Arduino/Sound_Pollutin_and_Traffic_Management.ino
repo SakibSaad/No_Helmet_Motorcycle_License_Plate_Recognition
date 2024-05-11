@@ -41,7 +41,7 @@ void loop() {
   Serial.print("Sound Level (dB): ");
   Serial.println(dB);
 
-  if(dB>36.2){
+  if(dB>=35.0){
     lcd.clear();
     lcd.setCursor(0, 0);
     lcd.print("Road Close:");
@@ -50,7 +50,7 @@ void loop() {
     lcd.print(" dB");
     servomotorclose();
   }
-  if(dB<36.2){
+  if(dB<=35.0){
     lcd.clear();
     lcd.setCursor(0, 0);
     lcd.print("Road Open:");
